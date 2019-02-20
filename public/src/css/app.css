@@ -1,0 +1,11 @@
+.text-center {
+  text-align: center;
+}
+
+.drawer-option {
+  padding: 16px;
+}
+.enable-notifications {
+  /* hide the 'enable notification' button by default */
+  display: none;
+}
